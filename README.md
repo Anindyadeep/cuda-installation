@@ -1,4 +1,4 @@
-#### cuda-installation
+# Cuda installation guide in AWS EC2 instance using Amazon Linux
 A simple guide for installing cuda stuff if you have a local gpu for doing deep learning and transformers
 
 Setting up cuda and nvidia utils in Amazon LinuxAmazon Linux based on fedora. In order to support GPU capabilities, we need to install nvidia drivers nvidia-smi and cuda. To get started make sure you have gcc installed. Otherwise we can download it by 
